@@ -5,7 +5,7 @@ Pop-Up Med Learn VR is an immersive **Virtual Reality based medical education pl
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Traditional medical education relies heavily on textbooks, 2D diagrams, and limited practical exposure.  
 This project introduces an immersive VR environment where students can learn:
@@ -17,7 +17,7 @@ This project introduces an immersive VR environment where students can learn:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Improve understanding of complex anatomical structures  
 - Provide safe procedural training using VR simulation  
@@ -26,7 +26,7 @@ This project introduces an immersive VR environment where students can learn:
 
 ---
 
-## 🏥 Medical Usages of VR
+##  Medical Usages of VR
 
 - Anatomy Education  
 - Surgical Training & Simulation  
@@ -41,7 +41,7 @@ This project introduces an immersive VR environment where students can learn:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Unity 3D  
 - C# Programming  
@@ -51,7 +51,7 @@ This project introduces an immersive VR environment where students can learn:
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 
 | File | Description |
 |------|------------|
@@ -63,7 +63,7 @@ This project introduces an immersive VR environment where students can learn:
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - AI-based adaptive learning  
 - Multi-user collaborative VR classrooms  
@@ -72,7 +72,7 @@ This project introduces an immersive VR environment where students can learn:
 
 ---
 
-## 👨‍💻 Developed By
+##  Developed By
 
 Final Year Project – **VR-Based Medical Learning System**  
 Pop-Up Med Learn VR
@@ -80,7 +80,7 @@ Pop-Up Med Learn VR
 
 ---
 
-# ✅ Abstract.md
+#  Abstract.md
 
 ```md
 # Abstract
@@ -94,7 +94,7 @@ The proposed platform aims to bridge the gap between theoretical knowledge and h
 
 ---
 
-# ✅ ProblemStatement.md
+#  ProblemStatement.md
 
 ```md
 # Problem Statement
@@ -111,7 +111,7 @@ Therefore, there is a need for a scalable and immersive VR-based learning system
 
 ---
 
-# ✅ RelatedWork.md
+#  RelatedWork.md
 
 ```md
 # Related Work
@@ -127,7 +127,7 @@ The proposed **Pop-Up Med Learn VR** system enhances existing approaches by inte
 
 ---
 
-# ✅ Methodology.md
+#  Methodology.md
 
 ```md
 # Proposed Methodology
@@ -154,7 +154,7 @@ This methodology ensures effective experiential learning and skill development.
 
 ---
 
-# ✅ References.md (IEEE Format)
+#  References.md (IEEE Format)
 
 ```md
 # References
