@@ -173,7 +173,18 @@ This methodology ensures effective experiential learning and skill development.
 
 [1] J. Seymour et al., “Virtual Reality in Medical Education: A Review,” *Medical Teacher*, 2021.  
 [2] H. Kim and S. Lee, “Adaptive VR Learning with Feedback,” *IEEE Trans. Learning Tech.*, 2020.  
-[3] L. Zhao et al., “VR Surgical Simulation Training,” *Int. J. Surgery Simulation*, 2019.  
+[3] L. Zhao et al., “VR Surgical Simulation Training,” *Int. J. Surgery Simulation*, 2019.
+[4] D. A. Cook et al., “Technology-enhanced simulation for health professions education,” JAMA, vol. 306, no. 9, pp. 978–988, 2011.
+[5] K. Mantovani et al., “VR learning environments: Mediation and presence,” Educational Technology & Society, vol. 7, no. 3, pp. 32–45, 2004.
+[6] J. Psotka, “Immersive training systems,” Instructional Science, vol. 23, pp. 405–431, 1995.
+[7] World Health Organization, Medication Safety in High-Risk Situations, WHO Press, 2019.
+[8] A. Moro et al., “The effectiveness of virtual and augmented reality in health sciences education,” Anatomical Sciences Education, vol. 10, no. 6, pp. 549–559, 2017.
+[9] M. R. Andersen et al., “Virtual reality simulation training improves operating room performance,” Annals of Surgery, vol. 251, no. 6, pp. 1068–1073, 2010.
+[10] P. Milgram and F. Kishino, “A taxonomy of mixed reality visual displays,” IEICE Transactions on Information and Systems, vol. E77-D, no. 12, pp. 1321–1329, 1994.
+
+
+
+
 ...
 
 ```
