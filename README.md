@@ -16,6 +16,10 @@ This project introduces an immersive VR environment where students can learn:
 - Interactive pop-up explanations during learning  
 
 ---
+# Abstract
+Learning about medicine is really tough. It needs a good understanding of ideas a lot of practice and constant training. Medical education requires conceptual understanding and practical exposure.. The old ways of learning like books, simple pictures and classroom talks do not do a good job of showing things in a way that feels real and letting people try things out for themselves especially when it comes to complicated things like the human body taking medicine and doing medical procedures. Medical education and medical procedures require a lot of practice. This paper is about Pop-Up Med Learn VR, a system for learning medicine that uses Virtual Reality. Pop-Up Med Learn VR is a Reality based medical learning system. It was made using Unity 3D. It is supposed to make learning more fun and interactive, by using 3D simulations that feel real. Medical education can be improved with Pop-Up Med Learn VR. The new system lets students look at things like models of the body and medicine bottles in a special virtual world. They get help away with messages that pop up telling them how to use things how much to take, what to be careful about and what might be bad, for them.
+
+---
 
 ##  Objectives
 
@@ -151,9 +155,17 @@ The Pop-Up Med Learn VR system follows these stages:
 
 This methodology ensures effective experiential learning and skill development.
 ```
+---
+#  architecture diagram
+
+<img width="406" height="271" alt="image" src="https://github.com/user-attachments/assets/032b7a28-2dc0-4302-bef2-68383d951c1b" />
 
 ---
+# Output
+<img width="406" height="271" alt="image" src="https://github.com/user-attachments/assets/e02990e1-d997-49dc-bb60-94245bf403b8" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ac583cf0-c94c-4e0d-8deb-54bac9f5042e" />
 
+---
 #  References.md (IEEE Format)
 
 ```md
