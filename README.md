@@ -182,8 +182,16 @@ This methodology ensures effective experiential learning and skill development.
 [9] M. R. Andersen et al., “Virtual reality simulation training improves operating room performance,” Annals of Surgery, vol. 251, no. 6, pp. 1068–1073, 2010.
 [10] P. Milgram and F. Kishino, “A taxonomy of mixed reality visual displays,” IEICE Transactions on Information and Systems, vol. E77-D, no. 12, pp. 1321–1329, 1994.
 
+---
+# Conclusion
 
+This paper is about Pop-Up Med Learn VR. It is a Virtual Reality system, for learning. The system uses Unity 3D and XR interaction technologies.
+The people who made Pop-Up Med Learn VR wanted to make medical education better. They thought the old ways of teaching medicine were not good enough. So they made a system that lets students learn in a world.
+In this world students can look at 3D models of the body. They can learn about the parts of the body and how they work. The system also teaches students how to use medicine in a way that feels real.
+The goal of Pop-Up Med Learn VR is to make learning medicine more interesting and interactive. It is a way of teaching medicine that uses Virtual Reality. Pop-Up Med Learn VR is an example of how technology can be used to improve medical education.
 
+The system does something cool. It has a real-time pop-up guidance mechanism that gives you information when you need it. This mechanism provides things like dosage instructions and safety warnings when you are interacting with objects. The system also tells you about the organs. 
+The implementation results demonstrate that the system provides smooth interaction, user-friendly navigation, and an effective immersive learning experience. Overall, Pop-Up Med Learn VR serves as a scalable and innovative solution for modern healthcare education, bridging the gap between theoretical study and practical training. Future work can further enhance the system through advanced clinical simulations, AI-based personalized learning, and multi-user collaborative VR environments.
 
 ...
 
